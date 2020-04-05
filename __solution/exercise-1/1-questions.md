@@ -1,3 +1,5 @@
 # HTML Comprehension Questions
 
-Answers for the comprehension questions will be given at a later date :)
+Create an HTML file so it matches the screenshot provided:
+
+
