@@ -10,7 +10,7 @@ _Don't worry about styling and alignment at this point, we'll worry about that w
 <!DOCTYPE html>
 <html>
    <body>
-      ...
+ GOOD MORNING ALL     ...
    </body>
 </html>
 ```
